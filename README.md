@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an AI/ML enthusiast and exploring multiple tech stacks <br>My interest lie in Web development.<br>Fun fact is: Love Java don't know why?<br>
+I'm an AI/ML enthusiast and exploring multiple tech stacks <br>My interest lie in Web development.<br>Fun fact is: Love Java don't know why<br>
 
 
 ## 🌐 Socials:
