@@ -148,6 +148,7 @@
 <hr>
 <details open> 
   <summary><h2>★ Certificates & Acheivements</h2></summary>
+    <img width="200" src="assets/sheild.png">
     <a href="assets/google-ai-essentials.png">
  <img width="200" src="assets/google-ai-essentials.png">
 </a><br>
