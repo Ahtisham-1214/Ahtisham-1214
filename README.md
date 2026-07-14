@@ -136,13 +136,13 @@
 <details open> 
   <summary><h2>📌 Pinned</h2></summary>
     <a href="https://github.com/Ahtisham-1214/Expense-Tracker-Flutter.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Expense-Tracker-Flutter">
+ <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Expense-Tracker-Flutter">
 </a>
 <a href="https://github.com/Ahtisham-1214/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Encryption & Decrption">
+ <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Encryption & Decrption">
 </a>
 <a href="https://github.com/Ahtisham-1214/TailorManagementWeb.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Tailor Management Web App">
+ <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Tailor Management Web App">
 </a>    
 </details> 
 <hr>
